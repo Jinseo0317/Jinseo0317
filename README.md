@@ -10,9 +10,3 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hjs990317)](https://solved.ac/hjs990317)
-</div>
-
-
-
