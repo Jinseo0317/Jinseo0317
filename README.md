@@ -11,7 +11,7 @@
 </div>
 
 <div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/hjs990317/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjs990317)](https://solved.ac/hjs990317/)
 </div>
 
 
